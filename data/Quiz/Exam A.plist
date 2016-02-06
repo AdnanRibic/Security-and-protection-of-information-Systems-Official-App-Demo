@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Na kojem nivou OSI modela rade Firewalli sa paketnim filtiranjem?</string>
+		<key>answer</key>
+		<string>Mrežnom</string>
+		<key>a1</key>
+		<string>Aplikacijskom</string>
+		<key>a2</key>
+		<string>Prezeiitacijskom</string>
+		<key>a3</key>
+		<string>Sesija</string>
+		<key>a4</key>
+		<string>Transport</string>
+		<key>a5</key>
+		<string>Data Link</string>
+		<key>a6</key>
+		<string>Fizičkom</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Da bi zaštitili našu privatnu mrežu od skeniranja izvana, ukoliko nema aktivnih konekcija, koristi ćemo metodu masikiranja privatnih adresa koja se zove:</string>
+		<key>answer</key>
+		<string>NAT</string>
+		<key>a1</key>
+		<string>PAM</string>
+		<key>a2</key>
+		<string>IDP</string>
+		<key>a3</key>
+		<string>IDS</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Auditing otkriva samo napade.</string>
+		<key>answer</key>
+		<string>Netacno</string>
+		<key>a1</key>
+		<string>Tacno</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Kada govorimo o mrežnoj sigurnosti, fizički put LAN mreže kroz UTP mrežni kabl potrebno je osigurati i sljedećih razloga:</string>
+		<key>answer</key>
+		<string>UTP mrežni kabl je vrlo lako „sniffati&quot;</string>
+		<key>a1</key>
+		<string>Podaci u ovoj mreži se šalju kao svjetlosni impulsi </string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Održavanje sigurnosti uključuje aktivnosti iz tri područja:</string>
+		<key>answer</key>
+		<string>1. fizička sigurnost:
+</string>
+		<key>a1</key>
+		<string>1. fizička sigurnost; </string>
+		<key>a2</key>
+		<string>1. fizička sigurnost;</string>
+		<key>a3</key>
+		<string>1. fizička sigurnost; 2. </string>
+	</dict>
+</array>
+</plist>
